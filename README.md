@@ -1,16 +1,21 @@
-## Hi there 👋
+# Apresentação Pessoal - Francisco Arend Mattje
 
-<!--
-**Gandalf12042007/Gandalf12042007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu apelido é  Chico, tenho atualmente 17 anos e estou atalmente aprofundando meus conhecimentos em desenvolvimento de sistemas através do do curso bilíngue fornecido pelo Senac, tambem sua estudante na rede de ensino particular Cnec e crio sistemas em meu tempo livre, não possuo redes socias
 
-Here are some ideas to get you started:
+## Educação:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - Ensino fundamental I completo na rede Cnec (2013-2022)
+    - Curso de Front-end em Bootstrap, Back-end e lógica da progamação em HTML e Css da rede Senac(2021-2022)
+
+
+## Experiência de Trabalho:
+
+    - Atualmente nenhuma experiência profissional 
+
+## Hobbies:
+
+    - Jogar videogames
+    - Ler qualquer tipo de livro
+    - Programar em Java, Css e Html
+ 
+[minha foto](foto.jpg)
