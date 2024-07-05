@@ -18,4 +18,4 @@ Olá, meu apelido é  Chico, tenho atualmente 17 anos e estou atalmente aprofund
     - Ler qualquer tipo de livro
     - Programar em Java, Css e Html
  
-[minha foto](foto.jpg)
+![minha foto](foto.jpg)
