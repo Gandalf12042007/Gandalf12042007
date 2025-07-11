@@ -1,6 +1,6 @@
 # Apresentação Pessoal - Francisco Arend Mattje
 
-Olá, meu apelido é  Chico, tenho atualmente 17 anos e estou atalmente aprofundando meus conhecimentos em desenvolvimento de sistemas através do do curso bilíngue fornecido pelo Senac, tambem sua estudante na rede de ensino particular Cnec e crio sistemas em meu tempo livre, não possuo redes socias
+Olá, meu apelido é  Chico, tenho atualmente 18 anos e estou atalmente aprofundando meus conhecimentos em desenvolvimento de sistemas através do do curso bilíngue fornecido pelo Senac, tambem sua estudante na rede de ensino particular Cnec e crio sistemas em meu tempo livre, não possuo redes socias
 
 ## Educação:
 
